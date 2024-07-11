@@ -1,6 +1,8 @@
 package com.projects.loans.service;
 
 import com.projects.loans.dto.LoansDto;
+import lombok.Data;
+
 
 public interface ILoansService {
 
